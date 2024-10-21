@@ -1,6 +1,6 @@
 **Adventures of Block**
 
-This game is developed for the research project "The Use of Music Anticipation in Games" by Ivar Troost and Twan Veldhuis.
+This game is developed for the research project "The Use of Music Anticipation in Games" by Ivar Troost and Tessa Veldhuis.
 
 The contents of this repository, with exception of the file "lightning.png" and certain code obtained from StackOverflow are licenced by the MIT license (LICENSE.md). 
 
